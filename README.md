@@ -1,6 +1,6 @@
 ## Apresentação
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c9d1d9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Renato+Bonetti+Neto;I'm+from+Brazil;Studying+Information+Systems;Be+Welcome!+:%29)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c9d1d9&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Renato+Bonetti+Neto;I'm+from+Brazil;Studying+Information+Systems;Be+Welcome!+:%29)](https://git.io/typing-svg)  
 
 ## Gráfico de Contribuição
 
