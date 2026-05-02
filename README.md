@@ -103,9 +103,3 @@ Evoluir como desenvolvedor backend, utilizando minha base em QA para construir s
 </div>
 
 ---
-
-## 👀 Visitas
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/RenatoBonettiNeto/count.svg" />
-</p>
