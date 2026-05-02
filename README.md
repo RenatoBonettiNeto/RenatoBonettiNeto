@@ -1,56 +1,111 @@
-## Apresentação
+## 👋 Olá! Eu sou o Renato Bonetti Neto
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c9d1d9&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Renato+Bonetti+Neto;I'm+from+Brazil;Studying+Information+Systems;Be+Welcome!+:%29)](https://git.io/typing-svg)  
+💻 QA Engineer focado em automação de testes  
+🧪 Experiência com testes de API e UI    
+📈 Em evolução para desenvolvimento backend  
 
-## Gráfico de Contribuição
+---
+
+## 🚀 Projetos em destaque
+
+🔹 **QA Data Validation Project**  
+Projeto prático de QA focado em validação de dados, testes de API e automação.  
+Simula um fluxo real de preparação de ambiente, carga de dados e validação.
+
+✔ Setup de banco PostgreSQL  
+✔ Importação e tratamento de dataset CSV  
+✔ Validação de integridade de dados  
+✔ Testes de API  
+✔ Base para automação de testes  
+
+➡️ https://github.com/RenatoBonettiNeto/qa-data-validation-project  
+
+🔹 **Experiência com ERP**  
+Atuação prática com módulos de:
+- Faturamento  
+- Financeiro  
+- Produção  
+- Frota  
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+<div style="display: inline_block"><br>
+
+<img align="center" alt="javaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
+<img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img align="center" alt="node" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img align="center" alt="playwright" src="https://img.shields.io/badge/Playwright-45ba63?style=for-the-badge&logo=playwright&logoColor=white"/>
+<img align="center" alt="postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img align="center" alt="sql" src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img align="center" alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img align="center" alt="github" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+
+</div>
+
+---
+
+## 📚 Atualmente estudando
+
+- Automação de testes avançada  
+- Arquitetura de software  
+- Backend com Node.js  
+- Boas práticas (Clean Code, SOLID)  
+
+---
+
+## 🎯 Objetivo
+
+Evoluir como desenvolvedor backend, utilizando minha base em QA para construir sistemas mais robustos, testáveis e escaláveis.
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RenatoBonettiNeto&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoBonettiNeto&layout=compact&hide_border=true&title_color=00BFFF&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+
+---
+
+## 📈 Atividade
 
 [![Renato github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RenatoBonettiNeto&bg_color=121212&color=ffffff&line=0a74ff&point=a8d9ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+---
 
-## Status
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RenatoBonettiNeto&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" alt="Renato github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoBonettiNeto&layout=compact&hide_border=true&title_color=00BFFF&text_color=c9d1d9&bg_color=0d1117" />
-</div> 
+## 🏆 Conquistas
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=RenatoBonettiNeto&theme=nord&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
-</br>
+
+---
+
+## 📬 Contato
+
 <div align="center"> 
-<a href="https://www.instagram.com/bonettineto.renato/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:017bnttinto.renato28sz@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/renato-bonetti-neto-58871125a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
- <br>
 
-## Skills
+<a href="https://www.linkedin.com/in/renato-bonetti-neto" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<div style="display: inline_block">
-  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img align="center" alt="php" src="https://img.shields.io/badge/php-php?style=for-the-badge&logo=PHP&logoColor=ffffff&color=435a8c">
+<a href="mailto:bonettineto.renato03@gmail.com">
+<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
+<a href="https://www.instagram.com/bonettineto.renato/" target="_blank">
+<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-## Visitors Count
 </div>
 
-<div align="left">
-<br> 
-<p align="center"><img align="left" src="https://profile-counter.glitch.me/{RenatoBonettiNeto}/count.svg" /></p> 
-<br>
-</div>
+---
 
+## 👀 Visitas
 
-<!--
-**RenatoBonettiNeto/RenatoBonettiNeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/RenatoBonettiNeto/count.svg" />
+</p>
