@@ -1,31 +1,26 @@
 ## 👋 Olá! Eu sou o Renato Bonetti Neto
 
-💻 QA Engineer focado em automação de testes  
-🧪 Experiência com testes de API e UI    
-📈 Em evolução para desenvolvimento backend  
+💻 Quality Assurance Engineer apaixonado por qualidade de software e automação de testes.
+
+Atualmente estou desenvolvendo um **framework de automação End-to-End** utilizando **Playwright** e **TypeScript**, aplicando boas práticas de arquitetura, organização de testes e preparação de dados via API.
+
+Estou constantemente aprimorando meus conhecimentos em testes de interface, testes de API e desenvolvimento de frameworks de automação escaláveis.
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Projeto em destaque
 
-🔹 **QA Data Validation Project**  
-Projeto prático de QA focado em validação de dados, testes de API e automação.  
-Simula um fluxo real de preparação de ambiente, carga de dados e validação.
+## 🎭 Playwright E2E Framework *(Em desenvolvimento)*
 
-✔ Setup de banco PostgreSQL  
-✔ Importação e tratamento de dataset CSV  
-✔ Validação de integridade de dados  
-✔ Testes de API  
-✔ Base para automação de testes  
+Framework de automação de testes End-to-End desenvolvido com **Playwright** e **TypeScript**, inspirado em práticas utilizadas em projetos reais de QA.
 
-➡️ https://github.com/RenatoBonettiNeto/qa-data-validation-project  
+O objetivo do projeto é construir uma arquitetura reutilizável, organizada e escalável para automação de aplicações web, separando claramente responsabilidades entre testes, Page Objects, fixtures e preparação de dados. 
 
-🔹 **Experiência com ERP**  
-Atuação prática com módulos de:
-- Faturamento  
-- Financeiro  
-- Produção  
-- Frota  
+> Este projeto está em desenvolvimento contínuo e representa minha evolução prática em automação de testes, arquitetura de frameworks e boas práticas de Engenharia de Qualidade.
+
+🔗 **Repositório**
+
+➡️ https://github.com/RenatoBonettiNeto/playwright-e2e-framework
 
 ---
 
@@ -48,16 +43,21 @@ Atuação prática com módulos de:
 
 ## 📚 Atualmente estudando
 
-- Automação de testes avançada  
-- Arquitetura de software  
-- Backend com Node.js  
-- Boas práticas (Clean Code, SOLID)  
+- Automação de testes com Playwright
+- Arquitetura de Frameworks de Teste
+- Testes de API
+- TypeScript
+- Boas práticas de Engenharia de Software
+- Clean Code
+- SOLID
+
 
 ---
 
 ## 🎯 Objetivo
 
-Evoluir como desenvolvedor backend, utilizando minha base em QA para construir sistemas mais robustos, testáveis e escaláveis.
+
+Consolidar minha carreira em Engenharia de Qualidade, desenvolvendo soluções de automação que contribuam para aplicações mais confiáveis, escaláveis e com maior qualidade.
 
 ---
 
